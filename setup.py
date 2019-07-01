@@ -10,7 +10,7 @@ from setuptools import setup
 setup(
     name='Flask-Ruko',
     version='1.0.0',
-    url='https://gitlab.com/ruko/flask-ruko',
+    url='https://github.com/rukodb/flask-ruko',
     license='MIT',
     author='Matthew Scholefield',
     author_email='matthew331199@gmail.com',
@@ -19,6 +19,7 @@ setup(
     py_modules=['flask_ruko'],
     install_requires=[
         'Flask',
+        'werkzeug',
         'ruko'
     ],
     keywords='ruko database in-memory',
