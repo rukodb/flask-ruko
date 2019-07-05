@@ -4,6 +4,12 @@
 
 Flask-Ruko is a simple [Flask](http://flask.pocoo.org/) integration for [ruko](https://github.com/rukodb/ruko-python) server.
 
+## Installation
+
+```bash
+pip install flask-ruko
+```
+
 ## Usage
 
 ```python
