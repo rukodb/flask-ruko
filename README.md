@@ -2,7 +2,7 @@
 
 *Ruko integration for Flask*
 
-Flask-Ruko is a simple [Flask](http://flask.pocoo.org/) integration for [ruko](https://github.com/rukodb/ruko-python) server.
+Flask-Ruko is a simple [Flask](https://palletsprojects.com/p/flask/) integration for [ruko](https://github.com/rukodb/ruko-python) server.
 
 ## Installation
 
